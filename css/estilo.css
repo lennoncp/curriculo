@@ -19,7 +19,7 @@ body {
     margin: auto;
 
     width: 95%;
-    height: 100%;
+    height: 650px;
 }
 
 .navegacao {
@@ -60,7 +60,7 @@ body {
 }
 
 .artigo {
-    height: 650px;
+    height: 100%;
     border: 1px solid #E5E5E5;
 }
 
