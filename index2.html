@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Curriculo</title>
+
+    <link rel="stylesheet" type="text/css" href="css/estilo2.css">
+    
+    <script type="text/javascript">
+       /* window.onload = function () {
+            close_div('inicio');
+        } */
+        function close_div(menu) {
+            if (menu == 'inicio') {
+
+                document.getElementById('artigo_inicio').style.display = 'block';
+
+                document.getElementById('artigo_perfil').style.display = 'none';
+                document.getElementById('artigo_formacao').style.display = 'none';
+                document.getElementById('artigo_contato').style.display = 'none';
+            }
+
+            if (menu == 'perfil') {
+                document.getElementById('artigo_perfil').style.display = 'block';
+
+                document.getElementById('artigo_inicio').style.display = 'none';
+                document.getElementById('artigo_formacao').style.display = 'none';
+                document.getElementById('artigo_contato').style.display = 'none';
+            }
+
+            if (menu == 'formacao') {
+                document.getElementById('artigo_formacao').style.display = 'block';
+
+                document.getElementById('artigo_perfil').style.display = 'none';
+                document.getElementById('artigo_inicio').style.display = 'none';
+                document.getElementById('artigo_contato').style.display = 'none';
+            }
+
+            if (menu == 'contato') {
+                document.getElementById('artigo_contato').style.display = 'block';
+
+                document.getElementById('artigo_perfil').style.display = 'none';
+                document.getElementById('artigo_formacao').style.display = 'none';
+                document.getElementById('artigo_inicio').style.display = 'none';
+            }
+
+        }
+    </script>
+
+</head>
+<body>
+<input type="checkbox" id="check" checked>
+<label id="icone" for="check"><img src="imagens/icone_white.png"></label>
+
+<div class="barra">
+
+    <nav>
+        <a href="#"><div class="link" id="nav_inicio" onclick="close_div('inicio');">Início</div></a>
+        <a href="#"><div class="link" id="nav_perfil" onclick="close_div('perfil');">Perfil Profissional</div></a>
+        <a href="#"><div class="link" id="nav_formacao" onclick="close_div('formacao');">Formação Acadêmica</div></a>
+        <a href="#"><div class="link" id="nav_contato" onclick="close_div('contato');">Contatos</div></a>
+    </nav>
+
+</div>
+
+<div class="container">
+    <header>
+        <div class="logo">
+            <img src="imagens/logo_trasp_white_peq.png">
+            <h1>Lennon da Cunha Palmério</h1>
+        </div>
+    </header>
+
+    <div class="artigos">
+        <article class="artigo" id="artigo_inicio">
+            <p> Olá meu nome e Lennon da Cunha Palméreio, Recentemente formado no curso de Bacharelado em Sistemas de Informação pelo faculdade Anhanguera de Taguatinga na metodologia presencial. Tenho experiência no desenvolvimento de aplicações nativas e web, além de  experiência com banco de dados e BI como analista de BI pela Stefanini. Busco sempre me manter atualizado realizando diversos cursos online.</p>
+        </article>
+
+        <article class="artigo" id="artigo_perfil">
+            Arigo do Perfil
+        </article>
+
+        <article class="artigo" id="artigo_formacao" >
+           Artigo da Formação
+        </article>
+
+        <article class="artigo" id="artigo_contato" >
+            Artigo do Contato.
+        </article>
+    </div>
+
+</div>
+<div class="footer">
+    <footer>
+        Copyright &copy; www.meusite.com.br
+    </footer>
+</div>
+</body>
+</html>
