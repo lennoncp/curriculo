@@ -37,7 +37,7 @@
       <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
+            <state relative-caret-position="697">
               <caret line="75" column="58" lean-forward="false" selection-start-line="75" selection-start-column="58" selection-end-line="75" selection-end-column="58" />
               <folding>
                 <element signature="e#331#1866#0" expanded="false" />
@@ -50,7 +50,7 @@
       <file leaf-file-name="estilo2.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/estilo2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
+            <state relative-caret-position="1871">
               <caret line="135" column="50" lean-forward="true" selection-start-line="135" selection-start-column="50" selection-end-line="135" selection-end-column="50" />
               <folding />
             </state>
@@ -283,7 +283,7 @@
       <workItem from="1515858997747" duration="16770000" />
       <workItem from="1516483151522" duration="811000" />
       <workItem from="1516626483794" duration="14768000" />
-      <workItem from="1516711544665" duration="8719000" />
+      <workItem from="1516711544665" duration="8796000" />
     </task>
     <task id="LOCAL-00001" summary="Commitando a criação dos arquivos de estilo css e script javascript.">
       <created>1515861901918</created>
@@ -310,7 +310,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41068000" />
+    <option name="totallyTimeSpent" value="41145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -514,7 +514,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="697">
           <caret line="75" column="58" lean-forward="false" selection-start-line="75" selection-start-column="58" selection-end-line="75" selection-end-column="58" />
           <folding>
             <element signature="e#331#1866#0" expanded="false" />
@@ -525,7 +525,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/estilo2.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
+        <state relative-caret-position="1871">
           <caret line="135" column="50" lean-forward="true" selection-start-line="135" selection-start-column="50" selection-end-line="135" selection-end-column="50" />
           <folding />
         </state>
