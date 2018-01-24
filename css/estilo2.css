@@ -85,9 +85,10 @@ nav a {
 }
 
 .container {
-    width: 95%;
+    width: 93%;
     height: 100%;
-   margin: auto auto auto 45px;
+  /* margin: auto auto auto 45px; */
+    margin: auto;
 }
 
 #check:checked ~ .container{
@@ -114,6 +115,12 @@ nav a {
     height: 100px;
     margin-top: 18px;
     float: right;
+}
+
+.container header .social{
+    float: right;
+    margin: 25px;
+    padding: 10px;
 }
 
 .container .artigos{
