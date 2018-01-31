@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b2c74f6-f734-4f4c-8f1a-b7da19d4afd2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/estilo2.css" afterPath="$PROJECT_DIR$/css/estilo2.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +40,8 @@
       <file leaf-file-name="index2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="60" column="105" lean-forward="true" selection-start-line="60" selection-start-column="105" selection-end-line="60" selection-end-column="105" />
+            <state relative-caret-position="494">
+              <caret line="151" column="69" lean-forward="false" selection-start-line="151" selection-start-column="69" selection-end-line="151" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -289,7 +288,7 @@
       <workItem from="1516826163820" duration="6782000" />
       <workItem from="1517407494316" duration="11000" />
       <workItem from="1517408311324" duration="14351000" />
-      <workItem from="1517433538069" duration="1433000" />
+      <workItem from="1517433538069" duration="2071000" />
     </task>
     <task id="LOCAL-00001" summary="Commitando a criação dos arquivos de estilo css e script javascript.">
       <created>1515861901918</created>
@@ -316,7 +315,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65753000" />
+    <option name="totallyTimeSpent" value="66391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
@@ -757,8 +756,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="60" column="105" lean-forward="true" selection-start-line="60" selection-start-column="105" selection-end-line="60" selection-end-column="105" />
+        <state relative-caret-position="494">
+          <caret line="151" column="69" lean-forward="false" selection-start-line="151" selection-start-column="69" selection-end-line="151" selection-end-column="69" />
           <folding />
         </state>
       </provider>
