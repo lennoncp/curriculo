@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6b2c74f6-f734-4f4c-8f1a-b7da19d4afd2" name="Default" comment="" />
+=======
+    <list default="true" id="6b2c74f6-f734-4f4c-8f1a-b7da19d4afd2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
+    </list>
+>>>>>>> master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -285,7 +291,7 @@
       <workItem from="1516826163820" duration="6782000" />
       <workItem from="1517407494316" duration="11000" />
       <workItem from="1517408311324" duration="14351000" />
-      <workItem from="1517433538069" duration="2071000" />
+      <workItem from="1517433538069" duration="2378000" />
     </task>
     <task id="LOCAL-00001" summary="Commitando a criação dos arquivos de estilo css e script javascript.">
       <created>1515861901918</created>
@@ -312,7 +318,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="66392000" />
+=======
+    <option name="totallyTimeSpent" value="66698000" />
+>>>>>>> master
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
