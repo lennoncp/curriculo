@@ -184,6 +184,18 @@ nav a {
 
 }
 
+#artigo_inicio .conhecimento {
+    width: 350px;
+    height: 250px;
+    float: left;
+}
+
+#artigo_inicio .conhecimento h3{
+
+    text-indent: 1.2em;
+    margin-top: 10px;
+}
+
 .container .artigos #artigo_inicio, #artigo_contato, #artigo_formacao{
     display: none;
 }
